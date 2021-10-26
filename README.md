@@ -15,4 +15,19 @@
 ----
 
 # 📝 Apellido, Nombre y Num Control
-Martinez Estrada Ana Karen 16320885
+# Martinez Estrada Ana Karen 16320885
+
+
+
+# ¿Qué es Sense Hat?
+El Sense HAT es una placa complementaria para Raspberry Pi, hecha especialmente para la   misión Astro Pi (se lanzó a la Estación Espacial Internacional en diciembre de 2015)que permite medirtemperatura, humedad, presión y orientación, y mostrar información en su matriz de LED. 
+
+El Sense HAT tiene una matriz de LED RGB de 8 × 8, un joystick de cinco botones, la matriz LED de Sense HAT contiene 64 LED multicolor. Dentro de cada uno de esos 64 LED
+hay tres LED más pequeños: uno rojo, uno verde y uno azul, igual que en la pantalla del televisor o de un teléfono móvil inteligente.e incluye los siguientes sensores:
+
+Giroscopio
+Acelerómetro
+Magnetómetro
+Temperatura
+Presión barométrica
+Humedad
