@@ -21,7 +21,7 @@ X = (255, 0, 0)
 O = (255,255,255)
 
 
-''' Definimos donde mostrar cada color'''
+# Definimos donde mostrar cada color
 
 question_mark = [
     O, O, O, X, X, O, O, O,
@@ -36,11 +36,11 @@ question_mark = [
 
 sense = SenseHat()
 
- '''Mostrar esos colores en la pantalla LED'''
+# Mostrar esos colores en la pantalla LED
     
 sense.set_pixels(question_mark)
 
- '''Se  utiliza el metodo set_rotacion para hacer que la figura que emos dibujado en la matrix de leds haga una rotacion esto con los valores definidos '''
+ # Se  utiliza el metodo set_rotacion para hacer que la figura que emos dibujado en la matrix de leds haga una rotacion esto con los valores definidos 
 while True:
     for r in [0, 90, 180, 270]:
         sense.set_rotation(r)
