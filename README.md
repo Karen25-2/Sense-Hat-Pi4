@@ -31,3 +31,5 @@ Magnetómetro
 Temperatura
 Presión barométrica
 Humedad
+
+![](imagenes/sense.jpg)
