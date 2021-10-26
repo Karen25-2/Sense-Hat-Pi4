@@ -15,7 +15,7 @@ from sense_hat import SenseHat
 import sys
 import time
 
-'''  Definir algunos colores'''
+#Definir algunos colores
 
 X = (255, 0, 0)
 O = (255,255,255)
