@@ -1,3 +1,11 @@
+
+#Instituto Tecnologico de Tijuana
+#Depto de Sistemas y Computación
+#Ing. En Sistemas Computacionales
+#Autor :Martinez Estrada Ana Karen @nickname karen25-2
+#Repositorio:https:https://github.com/Karen25-2/Sense-Hat-Pi4
+                         
+
 from sense_hat import SenseHat
 sense = SenseHat()
 # Define los colores rojo y verde
